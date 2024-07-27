@@ -1,0 +1,36 @@
+Code:
+- Rewrite KarmaFlower_BitByPlayer with IL hooks
+- Fix SaveState_GetStoryDenPosition
+- Fix DynamicCycle
+- Rewrite SlugcatStats_PearlsGivePassageProgress with IL hooks? Or maybe just make it check something more specific
+- Rework RainWorldGame_GoToRedsGameOver to not be as scuffed
+
+- Add bigger passages
+- Add better passages
+- Add monk dreams
+- Add lizard karma
+- Add inv shoreline
+- Add inv chimney
+- Add inv snails
+- Add saint permakill
+- Add death karma
+- Add sleep karma
+
+Remix interface
+- Add presets
+- Add bigger explanations
+
+World:
+- Add OE connection
+- Remove SU PlayerPushback
+- Expand Facility Roots
+- Add new echoes
+- 
+
+Playtest:
+- Check if key items for Hunter/Rivulet on random start work
+- Check if DeathPersistentSaveData_ctor is okay
+- Check if RainCycle_ctor is okay
+- Check if RainWorldGame_GameOver is okay
+- Check if SlugcatSelectMenu_UpdateStartButtonText is okay
+- Check if SlugcatSelectMenu_ContinueStartedGame is okay

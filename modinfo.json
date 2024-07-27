@@ -1,0 +1,9 @@
+﻿{
+	"id": "praisethepit.commfixes",
+	"name": "Community Fixes",
+	"version": "0.1.0",
+	"authors": "praisethepit",
+	"description": "Adds many small fixes and new configurable options.",
+	"requirements": [ "moreslugcats"],
+	"requirements_names": [ "More Slugcats Expansion"]
+}

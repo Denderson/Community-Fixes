@@ -1,0 +1,133 @@
+//----------------------------------Random-Starts-----------------------------------
+//SU - Outskirts                (All)
+SU_C04
+SU_S05
+SU_S04
+SU_S01
+SU_S03
+
+//HI - Industrial Complex       (All)
+HI_S02
+HI_S04
+HI_S01
+HI_S05
+HI_S06
+
+//DS - Drainage System          (All but Saint)
+DS_S01r
+DS_S02l
+DS_S04
+
+//CC - Chimney Canopy (All)
+CC_S01
+CC_S03
+CC_S04
+
+//GW - Garbage Wastes           (All)
+GW_A24
+GW_S02
+GW_S06
+GW_S07
+
+//SH - Shaded Citadel           (All but Saint)
+SH_E01
+SH_S10
+SH_S08
+SH_S02
+SH_S04
+
+//SL - Shoreline                (All but Spearmaster and Artificer)
+SL_S05
+SL_S03
+SL_S04
+SL_S07
+SL_S08
+SL_S09
+SL_S10
+
+//SI - Sky Islands              (All)
+SI_SAINTINTRO
+SI_S05
+SI_S04
+SI_S03
+
+//LF - Farm Arrays              (All)
+LF_S01
+LF_S02
+LF_S03
+LF_S05
+LF_S07
+
+//UW - The Exterior             (Survivor, Monk, Hunter, Artificer, Gourmand, Rivulet)
+UW_S07
+UW_S04
+UW_S01
+UW_S02
+UW_S05
+UW_S06
+
+//SS - Five Pebbles             (Survivor, Monk, Hunter, Artificer, Gourmand)
+SS_S02
+SS_S01
+SS_S04
+
+//SB - Subterreanean            (All)
+SB_S04
+SB_S02
+SB_S05
+SB_S06
+SB_S07
+
+//VS - Pipeyard                 (All)
+VS_S05
+VS_S08
+VS_S01
+VS_S04
+
+//RM - The Rot                  (Rivulet)
+RM_S01
+RM_LCS2
+RM_LCS1
+
+//MS - Submerged Superstructure (Rivulet - All others optional but Spearmaster and Artificer)
+
+//LC - Metropolis               (Artificer, Survivor, Monk)
+LC_S01
+LC_A05
+LC_S03
+LC_S04
+LC_shelter_above
+LC_ShelterTrain1
+
+//DM - Looks To The Moon        (Spearmaster)
+DM_STOP
+DM_S14
+DM_S01
+DM_S02
+DM_S11
+DM_S13
+
+//OE - Outer Expanse            (Gourmand, Survivor, Monk)
+OE_S04
+OE_S06
+OE_S01
+OE_EXSHELTER
+
+//UG - Undergrowth              (Saint)
+UG_S01r
+UG_S02l
+UG_S04
+
+//CL - Silent Construct         (Saint)
+CL_S10
+CL_S12
+CL_LCS2
+CL_S02
+CL_S05
+CL_S14
+
+//LM - Waterfront Facility (Artificer, Spearmaster)
+LM_S05
+LM_S06
+LM_S11
+LM_S13
