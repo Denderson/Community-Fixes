@@ -1,0 +1,2 @@
+[FINDLINESTART](Inv)OFFSCREEN:
+[REPLACE](Inv)OFFSCREEN: 0-MirosVulture-4, 0-Scavenger-7
