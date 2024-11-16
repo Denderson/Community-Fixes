@@ -3,7 +3,7 @@
 	"name": "Community Fixes",
 	"version": "0.1.0",
 	"authors": "praisethepit",
-	"description": "Adds many small fixes and new configurable options.",
+	"description": "Adds many small fixes and new configurable options. Not compabitable with More Slugcats nerf mod",
 	"requirements": [ "moreslugcats"],
 	"requirements_names": [ "More Slugcats Expansion"]
 }
